@@ -1,0 +1,8 @@
+
+* {
+  border: 1px solid orange;
+}
+
+.box{
+  display: flex;
+}
